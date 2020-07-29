@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Sokoban icon/box1.png</file>
+        <file>Sokoban icon/box2.png</file>
+        <file>Sokoban icon/invincible.png</file>
+        <file>Sokoban icon/point.png</file>
+        <file>Sokoban icon/trap.png</file>
+        <file>Sokoban icon/sokoban.png</file>
+        <file>Sokoban icon/background.jpg</file>
+        <file>Sokoban icon/position.png</file>
+        <file>Sokoban icon/player_down.png</file>
+        <file>Sokoban icon/player_left.png</file>
+        <file>Sokoban icon/player_right.png</file>
+        <file>Sokoban icon/player_up.png</file>
+    </qresource>
+</RCC>
